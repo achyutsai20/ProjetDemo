@@ -6,7 +6,7 @@ public class NewGit
 	{
 		System.out.println(" ---------------------");
 		System.out.println(" new Git");
-		System.out.println(" ---------------------");
+		
 	}
 
 }
